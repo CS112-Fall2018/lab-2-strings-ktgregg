@@ -1,3 +1,15 @@
+/**
+ * StringFun.java - takes an input of 3 strings and uses methods of the String class and prints the outputs
+ * @author kierangregg
+ * @version 1.0
+ *
+ * I chose the String method replaceAll() and the String method toLowerCase()
+ * The method replaceAll() takes 2 Arguments and replaces all occurences of the first String with the second String provided.
+ * the method toLowerCase() is used on a String to convert all of the characters to lower case.
+ *
+ * @param args must be 3 strings. The first string must be at least 2 phrases long. The second string can be anything. The third string must be included in the first string
+ */
+
 public class StringFun
 {
     public static void main (String [] args)
